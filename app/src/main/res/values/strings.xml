@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Congratulations Card</string>
+    <string name="title_name">Wohoo, you finally made it!</string>
+    <string name="button_text">song for you</string>
+</resources>
